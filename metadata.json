@@ -1,0 +1,5 @@
+{
+  "name": "IPO Account Manager",
+  "description": "A tool to manage and streamline IPO applications across multiple Demat accounts. It helps track application statuses, store account details securely, and provides quick links to brokerage platforms.",
+  "requestFramePermissions": []
+}
